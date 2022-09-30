@@ -1,0 +1,5 @@
+n=float(input("enter a decimal number:"))
+s = n*n
+c = n*n*n
+print(n,"square number:",s)
+print(n,"cube number:",c)
